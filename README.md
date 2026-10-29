@@ -12,10 +12,9 @@ The hedges are evaluated out of sample over 2025. No estimator improves hedging 
 data/     committed SOFR swap rates
 src/      analysis modules, every parameter declared once in config.py
 report.pdf
-slides.pdf
 ```
 
-The report and slides are distributed as compiled PDFs. Their typesetting source is not included.
+The report is distributed as a compiled PDF. Its typesetting source is not included.
 
 ## Data
 
